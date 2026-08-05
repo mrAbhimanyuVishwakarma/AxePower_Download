@@ -1,33 +1,3 @@
-# AxePower
-One-click laptop power optimizer.
-
-
-![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
-![Framework](https://img.shields.io/badge/Framework-WPF%20%7C%20.NET%208-512BD4)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-AxePower is a modern Windows desktop application that automatically optimizes your laptop's power plan based on your charger's connection status. Built with C#, WPF, and .NET 8 featuring a premium Fluent Dark UI.
-
-## Screenshots
-
-<img width="961" height="631" alt="image" src="https://github.com/user-attachments/assets/c9e3be08-5052-4928-992d-b5ce54540ea0" />
-
-<img width="961" height="631" alt="image" src="https://github.com/user-attachments/assets/b849cb73-f24f-4ecc-a6c4-99beadd0ae67" />
-
-
-Features
-Three Power Modes: Quick toggle between Eco Mode (Battery Saver), Smart Mode (Balanced), and Beast Mode (Ultimate Performance).
-Smart Auto Switch: Automatically detects when you plug/unplug your laptop and applies your preferred power mode silently in the background.
-Customizable Switch Delay: Add a delay before switching plans to prevent rapid toggling if your charger connection is loose.
-Safe & Secure: Does not alter registry or critical Windows services blindly. Safely modifies standard Windows Power Plans using powercfg.
-System Logs: Keep track of mode switches and any background activities.
-Premium UI: Designed with glassmorphic cards, modern rounded aesthetics, and fluid interaction feedback inspired by Windows 11 Fluent Design.
-
-Installation Steps
-Download the latest AxePowerSetup.exe from the Releases page.
-Run the installer and follow the prompt (it will create a Start Menu and optional Desktop shortcut).
-Open AxePower and configure your Smart Auto Switch preferences.
-
 # AxePower ⚡
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
 ![Framework](https://img.shields.io/badge/Framework-WPF%20%7C%20.NET%208-512BD4)
