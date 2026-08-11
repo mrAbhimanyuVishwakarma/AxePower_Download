@@ -5,7 +5,7 @@
 
 Welcome to AxePower! This is a simple, set-and-forget tool designed to automatically optimize your laptop's battery life and performance. 
 
-<img width="1280" height="685" alt="axepower_2" src="https://github.com/user-attachments/assets/dcc19ddd-129b-4c01-92c5-488f6aa1d033" />
+<img width="962" height="635" alt="axepower_1" src="https://github.com/user-attachments/assets/87a33231-d576-44cd-8f32-85511ae054c6" />
 <img width="1280" height="685" alt="axepower_3" src="https://github.com/user-attachments/assets/328b53c0-ce10-4216-8452-0d2702fe9f21" />
 <img width="1280" height="686" alt="axepower_4" src="https://github.com/user-attachments/assets/6fe3283a-76ae-4c91-bbfb-bdb83c6d4acf" />
 <img width="965" height="633" alt="axepower_5" src="https://github.com/user-attachments/assets/df67309e-d22c-4a2c-a379-ed1aedf82595" />
