@@ -5,9 +5,12 @@
 
 Welcome to AxePower! This is a simple, set-and-forget tool designed to automatically optimize your laptop's battery life and performance. 
 
-<img width="961" height="631" alt="image" src="https://github.com/user-attachments/assets/c9e3be08-5052-4928-992d-b5ce54540ea0" />
+<img width="1280" height="685" alt="axepower_2" src="https://github.com/user-attachments/assets/dcc19ddd-129b-4c01-92c5-488f6aa1d033" />
+<img width="1280" height="685" alt="axepower_3" src="https://github.com/user-attachments/assets/328b53c0-ce10-4216-8452-0d2702fe9f21" />
+<img width="1280" height="686" alt="axepower_4" src="https://github.com/user-attachments/assets/6fe3283a-76ae-4c91-bbfb-bdb83c6d4acf" />
+<img width="965" height="633" alt="axepower_5" src="https://github.com/user-attachments/assets/df67309e-d22c-4a2c-a379-ed1aedf82595" />
+<img width="1278" height="682" alt="axepower_6" src="https://github.com/user-attachments/assets/0d154531-d2bd-4961-9dc2-c1ad6859b77e" />
 
-<img width="961" height="631" alt="image" src="https://github.com/user-attachments/assets/b849cb73-f24f-4ecc-a6c4-99beadd0ae67" />
 
 ## What does it do?
 AxePower manages your laptop's power settings based on whether your charger is plugged in or not. 
