@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
 ![Framework](https://img.shields.io/badge/Framework-WPF%20%7C%20.NET%208-512BD4)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/Version-1.9.0-blueviolet)
+![Version](https://img.shields.io/badge/Version-2.1.0-blueviolet)
 
 [Official Website](https://axepower.vercel.app/) • [Discord Community](https://discord.gg/WfD4wZFJ8d) • [Releases](https://github.com/mrAbhimanyuVishwakarma/AxePower_Download/releases) • [Help Center](https://axepower.vercel.app/help.html) • [Issues & Support](https://github.com/mrAbhimanyuVishwakarma/AxePower_Download/issues)
 
@@ -31,12 +31,26 @@ Have you ever noticed your laptop running slowly when unplugged, or your battery
 - 🖥️ **Share Screen:** Browser-based low-latency desktop and gameplay streaming with zero setup for viewers.
 - 📱 **Phone Control:** All-in-one mobile suite with offline **LAN Drop** Wi-Fi file sharing and **scrcpy** Android screen mirroring.
 - 🛍️ **Software Hub & Updaters:** 1-click installer and launcher for gaming stores, hardware monitoring tools, Ninite multi-installer, drivers, and runtimes.
+- 🧰 **System Care:** Recommended optimizations, SFC/DISM repairs, cleanup, DNS tools, restore points, and live terminal output in one workspace.
+- 🛡️ **Windows Update Controls:** Apply the security-only update policy, protect signed-in sessions from forced reboots, repair update services/cache, and create restore points.
 - 🖥️ **Built-In Terminal:** A real CMD / PowerShell window inside AxePower, where every command the app runs shows its live output.
 - 🌡️ **True CPU & GPU Temperatures:** Reads your machine's real sensors — and keeps working on Windows 11 PCs with Memory Integrity turned on, where most monitoring tools show nothing.
 
 **The best part?** You can turn on **Auto Switch**, and AxePower will automatically switch between these modes for you. Out-of-the-box, it defaults to **Smart Mode** when plugged in and **Eco Mode** on battery for optimal balance, or you can choose your own defaults!
 
 ---
+
+## 🌟 What's New in v2.1.0
+
+- 🧰 **Unified System Care**: Optimizer and Doctor now share a focused workspace with a collapsible category rail, recommended tweaks, guarded repair actions, junk cleanup, DNS tools, restore points, and live terminal output.
+- 🛡️ **Working Windows Update controls**: apply the recommended security-updates-only policy, block forced restarts while a user is signed in, reset the Windows Update cache and services, and create a restore point before changes.
+- 🗂️ **Table-based Uninstaller**: separate Win32 and Windows Apps views use the full page width, show each application's type, and support sortable columns, alphabetical order in both directions, batch selection, broken-entry filtering, and Select All for leftovers.
+- 🧭 **Responsive Software Hub**: categories move into a collapsible left rail. Install and app actions stay on the right when space permits and move below details only when the window is compact.
+- 🔔 **Notifications & Alerts**: desktop banners, automatic-mode-change notices, and the low-battery chime now follow persistent settings and live runtime events.
+- 🎮 **Clear mode selection**: only the applied mode remains active; choosing Eco, Smart, or Beast previews its glow before Apply. Game Mode no longer makes Smart appear active.
+- 🧹 **Navigation cleanup**: Maintenance contains Windows Update, System Care, Uninstaller, and Debloat; Utilities contains Terminal and Tools.
+- 👤 **Accounts, Friends, Tools & Routines included**: v2.1.0 also includes the optional account/profile system, friends and invitations, expanded trusted tools, Timer, and If-Then Routines introduced in the 2.0.x updates.
+- 📦 **Installer**: **`AxePower-v2.1.0-Setup.exe`** for Windows 10/11 x64.
 
 ## 🌟 What's New in v1.9.0
 
@@ -224,7 +238,7 @@ Have you ever noticed your laptop running slowly when unplugged, or your battery
 ## 📥 How to Install
 
 1. Go to the [Releases](https://github.com/mrAbhimanyuVishwakarma/AxePower_Download/releases) page or [AxePower Website](https://axepower.vercel.app/).
-2. Download the latest **`AxePower-Setup.exe`**.
+2. Download the latest **`AxePower-v2.1.0-Setup.exe`**.
 3. Run the installer and follow the quick setup wizard.
 4. AxePower will automatically start and sit quietly in your system tray!
 
