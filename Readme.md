@@ -13,7 +13,9 @@
 </div>
 
 Welcome to AxePower! This is a simple, set-and-forget tool designed to automatically optimize your laptop's battery life, thermal envelope, and performance.
-<img width="962" height="631" alt="Screenshot 2026-09-01 155842" src="https://github.com/user-attachments/assets/fea08608-9a6b-4599-bc6d-262ddd05da1a" />
+<img width="1024" height="679" alt="dashboard_laptop" src="https://github.com/user-attachments/assets/c61c8ce8-658c-463c-a8ba-0b0784530b3e" />
+<img width="2752" height="1536" alt="website_home_image" src="https://github.com/user-attachments/assets/a368bc5c-2c2a-4308-b304-edd10312996d" />
+
 
 ---
 
